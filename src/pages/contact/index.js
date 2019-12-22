@@ -37,9 +37,9 @@ export default class Index extends React.Component {
     return (
       <Layout>
         <section className="section">
-          <div className="container">
+          <div className="container column is-half ">
             <div className="content">
-              <h1>Contact</h1>
+              <h2>Contact</h2>
               <form
                 name="contact"
                 method="post"
@@ -101,7 +101,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <button className="button is-link" type="submit">
+                  <button className="button is-link is-primary" type="submit">
                     Send
                   </button>
                 </div>
