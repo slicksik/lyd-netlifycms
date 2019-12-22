@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import '../styles/about.css'
 
 export const BlogPostTemplate = ({
   content,
@@ -21,11 +22,13 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+          <div className="column is-3 sticky">
+            <h1 className="title is-size-4 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            <p style={{ fontSize:'1rem'}}>{description}</p>
+            </div>
+            <div className="column is-9">
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>

@@ -16,7 +16,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           </div>
           <div className="column is-6">
             <div className="section">
-              <h2 className="title is-size-2 has-text-weight-bold is-bold-light">
+              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
               <PageContent className="content" content={content} />

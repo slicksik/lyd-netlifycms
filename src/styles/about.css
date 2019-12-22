@@ -2,7 +2,20 @@
     background-color:#F3D8E0;
 }
 p {
-    font-size: 18px;
+    font-size: 1.25rem;
     line-height: 1.5em;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.has-background-pink {
+        background-color:#F3D8E0;
+}
+
+.menu-list1 a {
+    color:#fff;
+}
+
+.sticky {
+    position: sticky;
+    top:30px;
 }
