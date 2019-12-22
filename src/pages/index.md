@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: I am a doofus octapus
-image: /img/wallhaven-611216.jpg
+title: lydia xythali's internet home
+image: /img/feb-17-traditional-love-nocal-1920x1080.jpg
 heading: I am a doofus octapus
-subheading: Support sustainable farming while enjoying a cup
+subheading: scribblings of a neurotic octapus
 mainpitch:
-  title: Why Kaldi
+  title: Welcome.
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
