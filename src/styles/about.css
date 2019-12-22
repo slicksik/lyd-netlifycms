@@ -1,3 +1,8 @@
 .about {
     background-color:#F3D8E0;
 }
+p {
+    font-size: 18px;
+    line-height: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
