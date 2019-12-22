@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: I am a doofus octapus
-image: /img/home-jumbotron.jpg
+image: /img/wallhaven-611216.jpg
 heading: I am a doofus octapus
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
