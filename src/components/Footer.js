@@ -19,7 +19,7 @@ const Footer = class extends React.Component {
           />
         </div>
         <div className="content has-text-centered has-background-white has-text-white-ter">
-          <div className="container has-background-white has-text-white-ter">
+          <div className="container has-background-black has-text-white-ter">
             <div className="columns">
               <div className="column is-4">
                 <section className="menu">
